@@ -1,0 +1,3 @@
+sudo telinit 3
+sudo apt install build-essential libglvnd-dev pkg-config
+systemctl start gdm.service
